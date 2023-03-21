@@ -1,0 +1,60 @@
+Analise e Desenvolvimento de Sistemas
+
+------------------------------------------------------------------------------------------------------
+
++++++ O que são Redes de Computadores +++++
+
+- Um conjunto de modolos processadores que estão interligados através de um sistema de comunicação;
+- Font(Transmissor)-> Informação -> Meio -> Receptor(Destinatário)
+
+------------------------------------------------------------------------------------------------------
+
++++++ Tipos de Comutação +++++
+
+~ Ojetivo da comutação 
+- saber como o dado vai fluir da origem até o destino 
+~ Tipos
+- Comutação a circuito
+- Comutação a pacote 
+- Comutação por mensagem 
+
+------------------------------------------------------------------------------------------------------
+
++++++ Comutação de Circuitos +++++
+
+- Fase 1: estabelecimento de circuito
+- Fase 2: troca de dados usando o circuito estabelecido
+- Fase 3: encerramento do circuito
+
+------------------------------------------------------------------------------------------------------
+
++++++ Comutação de Pacotes +++++
+
+- A informação é dividida em conjuntos de dados chamados pacotes
+- Cada pacote pode seguir um caminho diferente
+- A ordem de chegada ao destino não é preservada
+- Cabe assim ao destino rearrumar os pacotes na sequência correta
+
+------------------------------------------------------------------------------------------------------
+
++++++ Redes definidas por software +++++
+
+- As SDN permitem programar o comportamento da rede de forma centralizada e controlada por meio de 
+  interfaces de programação abertas.
+- A figura central em uma rede SDN é o controlador de rede
+
+------------------------------------------------------------------------------------------------------
+
++++++ Internet das Coisas +++++
+
+- A ideia é conectar não apenas os computadores, smartphones e tablets, mas também qualquer 
+  dispositivo, objeto e até mesmo animais na rede.
+
+
+
+
+
+
+
+
+

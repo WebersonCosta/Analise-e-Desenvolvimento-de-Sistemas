@@ -1,0 +1,67 @@
+Analise e Desenvolvimento de Sistemas
+
+------------------------------------------------------------------------------------------------------
+
++++++ Hardware e Software +++++
+
+~ Hardware(HW)
+- Componentes físicos, ou seja, o que pode ser visto e tocado;
+
+~ Software(SW)
+- Programas execudados no computador.
+
+
+------------------------------------------------------------------------------------------------------
+
++++++ Principais componentes de hardware dos computadores +++++
+
+ { Processador }
+
+- Clock(Pulso de frequência constante - medido em Hertz)
+- Overclocking
+
+ { Memória RAM }
+
+- A memória RAM é volátil, ou seja, seus dados são apagados quando o sistema fica sem energia.
+
+ { Memória Secundária }
+
+- HD;
+- SSD. 
+
+ { Placa-Mãe }
+
+- Conecta o processador, a memória principal e os periféricos;
+- Barramentos
+
+ { Periféricos }
+
+- Tela touchscreen;
+- Teclado;
+- Mouse;
+- Microfone etc.
+
+ { Dispositivos de saída }
+
+- Sistema de vídeo;
+- Alto-falantes ou caixas de som;
+- Impressora;
+- Placa de rede etc.
+
+
+------------------------------------------------------------------------------------------------------
+
++++++ Software +++++
+
+ { Software finalisticos ou de aplicação } 
+
+- Navegador de internet;
+- Planilhas;
+- Editores de texto;
+- Jogos eletronicos.
+
+ { Softwate de sistema } 
+
+- placa de rede;
+- O principal software de sistema é o conhecido sistema operacional.
+

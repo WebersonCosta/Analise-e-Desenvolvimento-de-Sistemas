@@ -1,0 +1,36 @@
+Analise e Desenvolvimento de Sistemas
+
+------------------------------------------------------------------------------------------------------
+
++++++ O Sistema Operacional +++++
+
+- Responsável por conhecer o hardware instalado no computador.
+
+
+------------------------------------------------------------------------------------------------------
+
++++++ Funções do Sistema Operacional +++++
+
+- Servir como uma camada de abstração entre o hardware e a aplicação do usuário.
+- Cuidar da alocação do armazenamento e da memória principal.
+- Executar programas simultaneamente.
+- Informar quando e quais programas ganham acesso ao uso do processador.
+- Escolher quando determinados programas devem passar o uso do processador para outro programa.
+
+
+------------------------------------------------------------------------------------------------------
+
++++++ Histórico +++++
+
+~ Primeiros OS
+
+- Unix (Estado)
+- MS-DOS (Microsoft)
+- Windows (Microsoft)
+
+~ Mobiles
+
+- Android
+- iOS
+
+

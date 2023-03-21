@@ -1,0 +1,34 @@
+Analise e Desenvolvimento de Sistemas
+
+------------------------------------------------------------------------------------------------------
+
++++++ A Origem da Internet +++++
+
+  - ARPANET
+
+------------------------------------------------------------------------------------------------------
+
++++++ A Internet +++++
+
+~ Rede de Redes
+
+  - 1960 surgi a ideia de conectar computadores espalhados por centros acadêmicos norte-americanos.
+  - 1970 criação da ARPANET.
+
+  - Comunicação entre computadores
+  - Protocolos de comunicação
+
+~ Internet Discada
+
+~ Endereço IP e Roteador 
+
+  - O endereço IP consistia em uma sequência de quatro números entre 0 a 255 (representados em 8 bits)
+
+~ E-mail e páginas disponíveis na rede
+
+~ Páginas de pesquisa, chats e programas de troca de mensagens
+
+~ Interação entre usuários
+
+~ Banda larga, streaming e aplicativos
+
