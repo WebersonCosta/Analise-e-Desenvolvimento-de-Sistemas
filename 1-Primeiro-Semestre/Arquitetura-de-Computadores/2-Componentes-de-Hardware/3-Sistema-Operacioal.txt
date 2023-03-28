@@ -6,24 +6,24 @@ Analise e Desenvolvimento de Sistemas
 
 ~ Definição
 
-- Um sistema operacional (SO) é um conjunto de rotinas que atua como intermediário entre o usuário e o
-  hardware de um computador
+  - Um sistema operacional (SO) é um conjunto de rotinas que atua como intermediário entre o usuário e o
+    hardware de um computador
 
-- O único programa executado em modo núcleo (kernel), possuindo acesso ao hardware e execução de 
-  qualquer instrução possível.
-- Um programa de controle que comanda a execução dos programas do usuário e as operações dos 
-  dispositivos de E/S.
-- Um gerenciador de recursos (hardware) que dirige e aloca as partes de todo um sistema complexo.
+  - O único programa executado em modo núcleo (kernel), possuindo acesso ao hardware e execução de 
+    qualquer instrução possível.
+  - Um programa de controle que comanda a execução dos programas do usuário e as operações dos 
+    dispositivos de E/S.
+  - Um gerenciador de recursos (hardware) que dirige e aloca as partes de todo um sistema complexo.
 
 ~ Tipos de sistemas operacionais
 
-- Sistemas monoprogramáveis/monotarefas
-- Sistemas multiprogramáveis/multitarefas
-- Sistemas com múltiplos processadores
+  - Sistemas monoprogramáveis/monotarefas
+  - Sistemas multiprogramáveis/multitarefas
+  - Sistemas com múltiplos processadores
 
 ~ Tipos de sistemas operacionais multiprogramáveis/multitarefas
 
-- Sistemas batch/lote              (O usuário não interage)
-- Sistemas de tempo compartilhado  (Usuário interage)
-- Sistemas em tempo real           (Processamento instantâneo)
+  - Sistemas batch/lote              (O usuário não interage)
+  - Sistemas de tempo compartilhado  (Usuário interage)
+  - Sistemas em tempo real           (Processamento instantâneo)
 

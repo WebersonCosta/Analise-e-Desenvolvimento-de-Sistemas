@@ -2,7 +2,7 @@ Analise e Desenvolvimento de Sistemas
 
 ------------------------------------------------------------------------------------------------------
 
-+++++ O que são Redes de Computadores +++++
++++++ Conceitos +++++
 
 - Um conjunto de modolos processadores que estão interligados através de um sistema de comunicação;
 - Font(Transmissor)-> Informação -> Meio -> Receptor(Destinatário)
@@ -16,7 +16,7 @@ Analise e Desenvolvimento de Sistemas
 ~ Tipos
 - Comutação a circuito
 - Comutação a pacote 
-- Comutação por mensagem 
+- Comutação por mensagem  
 
 ------------------------------------------------------------------------------------------------------
 

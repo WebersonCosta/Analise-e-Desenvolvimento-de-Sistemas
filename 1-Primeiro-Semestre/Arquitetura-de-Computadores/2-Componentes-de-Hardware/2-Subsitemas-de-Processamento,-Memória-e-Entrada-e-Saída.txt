@@ -4,52 +4,52 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Sistema de Computação +++++
 
-- Implementação de computadores x arquitetura de computadores.
-- (Sistema) Conjuntos de partes coordenadas que concorrem para a realização de um determinado objetivo.
-- (Computação) realização de cálculos de forma ordenada ou apenas a manipulação de valores.
-- (Sistema de Computação)Um sistema de computação é um conjunto de partes coordenadas que concorrem 
-  para a realização do objetivo de computar (dados).
-
+  - Implementação de computadores x arquitetura de computadores.
+  - (Sistema) Conjuntos de partes coordenadas que concorrem para a realização de um determinado objetivo.
+  - (Computação) realização de cálculos de forma ordenada ou apenas a manipulação de valores.
+  - (Sistema de Computação)Um sistema de computação é um conjunto de partes coordenadas que concorrem 
+    para a realização do objetivo de computar (dados).
+ 
 ------------------------------------------------------------------------------------------------------
 
 +++++ Linguagem de Programação +++++
 
 ~ Tipos de Linguagens
 
-- Linguagem de baixo nível de abstração
-- Linguagem de alto nível de abstração
+  - Linguagem de baixo nível de abstração
+  - Linguagem de alto nível de abstração
 
 ------------------------------------------------------------------------------------------------------
 
 +++++ Organização de um sistema de computação +++++
 
-- Dispositivos de entrada;
-- Dispositivos de saída;
-- Processador;
-- Memória principal (primária);
-- Memória secundária.
+  - Dispositivos de entrada;
+  - Dispositivos de saída;
+  - Processador;
+  - Memória principal (primária);
+  - Memória secundária.
 
 - Arquitetura de John von Neumann
 
 ~ Tipos de barramentos (Barramento é um conjunto de fios que têm por função transportar sinais de
   informação e sinais de controle e comunicação entre os componentes   interligado)
 
-- Barramento de dados(BD) - bidirecionais
-- Barramento de endereços(BE) - unidirecional
-- Barramento de controle(BC) - unidirecional
+  - Barramento de dados(BD) - bidirecionais
+  - Barramento de endereços(BE) - unidirecional
+  - Barramento de controle(BC) - unidirecional
 
 ------------------------------------------------------------------------------------------------------
 
 +++++ Funções básicas de um processador +++++
 
-- Executar operações aritméticas com 2 números (somar, subtrair, multiplicar, dividir);
-- Mover um número (dado) de um local para outro;
-- Mover um número (dado) de dispositivo de entrada ou de saída;
-- Desviar a sequência de controle.
+  - Executar operações aritméticas com 2 números (somar, subtrair, multiplicar, dividir);
+  - Mover um número (dado) de um local para outro;
+  - Mover um número (dado) de dispositivo de entrada ou de saída;
+  - Desviar a sequência de controle.
 
 ~ Ciclo de instruções
 
-- Conjunto de instruções são todas as possíveis instruções que podem ser interpretadas e executadas 
-  por um processador.
-- Ciclo de instruções é um conjunto de instruções de máquina sequencialmente organizadas para a 
-  execução de um programa.
+  - Conjunto de instruções são todas as possíveis instruções que podem ser interpretadas e executadas 
+    por um processador.
+  - Ciclo de instruções é um conjunto de instruções de máquina sequencialmente organizadas para a 
+    execução de um programa.

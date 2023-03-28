@@ -2,7 +2,7 @@ Analise e Desenvolvimento de Sistemas
 
 ------------------------------------------------------------------------------------------------------
 
-+++++ Classificação das Redes +++++
++++++ O que são Redes de Computadores +++++
 
   - Um conjunto de modolos processadores que estão interligados através de um sistema de comunicação;
   - Font(Transmissor)-> Informação -> Meio -> Receptor(Destinatário)

@@ -4,20 +4,22 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Desenvolvimento do Computador em Quatro Gerações +++++
 
- { Máquina de Turing }
+  { Máquina de Turing }
 
 ~ Quatro elementos
-- 1º Um fita infinita dividida em células que pode ser lida e escrita;
-- 2º Um cabeçote capaz de ler ou escrever em uma cédula da fita e mover-se para esquerda ou direita
-     sobre a fita;
-- 3º Um registrador que mantém o estado atual da máquina;
-- 4º Uma função de transição que calcula, a partir do estado atual e do símbolo lido, qual o novo
-     estado e se o cabeçote deve se mover ou escrever na fita
 
- { Gerações dos Computadores }
+  - 1º Um fita infinita dividida em células que pode ser lida e escrita;
+  - 2º Um cabeçote capaz de ler ou escrever em uma cédula da fita e mover-se para esquerda ou direita
+       sobre a fita;
+  - 3º Um registrador que mantém o estado atual da máquina;
+  - 4º Uma função de transição que calcula, a partir do estado atual e do símbolo lido, qual o novo
+       estado e se o cabeçote deve se mover ou escrever na fita
+
+  { Gerações dos Computadores }
 
 ~ Primeira geração = Válvulas termiônicas 
-- Primeiro Computador(ENIAC).
+
+  - Primeiro Computador(ENIAC).
 
 ~ Segunda geração = Transistores 
 
@@ -30,18 +32,18 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Computação no Cotidiano +++++
 
-- Comunicação;
-- Meio de Transport;
-- Transações bancarias etc.
+  - Comunicação;
+  - Meio de Transport;
+  - Transações bancarias etc.
 
 
 ------------------------------------------------------------------------------------------------------
 
 +++++ Tendências +++++
 
-- Apple;
-- Amazon;
-- Microsoft;
-- Google;
-- Facebook.
+  - Apple;
+  - Amazon;
+  - Microsoft;
+  - Google;
+  - Facebook.
 
