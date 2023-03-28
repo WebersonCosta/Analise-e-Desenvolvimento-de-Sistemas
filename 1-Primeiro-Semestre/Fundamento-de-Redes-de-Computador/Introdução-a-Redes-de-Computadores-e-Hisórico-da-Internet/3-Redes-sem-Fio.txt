@@ -1,60 +1,37 @@
 Analise e Desenvolvimento de Sistemas
 
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 +++++ Conceitos +++++
 
-- Um conjunto de modolos processadores que estão interligados através de um sistema de comunicação;
-- Font(Transmissor)-> Informação -> Meio -> Receptor(Destinatário)
+  {Peculiaridades e características das redes sem fio}
 
-------------------------------------------------------------------------------------------------------
+~ Vantagens
 
-+++++ Tipos de Comutação +++++
+  - A instalação de uma rede em um prédio histórico tombado; 
+  - Dentro de um centro cirúrgico de um hospital;
+  - Instalação de redes temporárias etc;
+  - A mobilidade dos terminais.
 
-~ Ojetivo da comutação 
-- saber como o dado vai fluir da origem até o destino 
-~ Tipos
-- Comutação a circuito
-- Comutação a pacote 
-- Comutação por mensagem  
+~ Desvantagens
 
-------------------------------------------------------------------------------------------------------
+  - Segurança
+  - Interferência de outras fontes
+  - Propagação multivias
+  - Condições climáticas 
 
-+++++ Comutação de Circuitos +++++
+-------------------------------------------------------------------------------------------------------
 
-- Fase 1: estabelecimento de circuito
-- Fase 2: troca de dados usando o circuito estabelecido
-- Fase 3: encerramento do circuito
++++++ Redes locais sem fio – WiFi +++++
 
-------------------------------------------------------------------------------------------------------
+  - A tecnologia dominante empregada em redes locais sem fio é a tecnologia WiFi, identificada pelo
+    padrão IEEE 802.11.
 
-+++++ Comutação de Pacotes +++++
+-------------------------------------------------------------------------------------------------------
 
-- A informação é dividida em conjuntos de dados chamados pacotes
-- Cada pacote pode seguir um caminho diferente
-- A ordem de chegada ao destino não é preservada
-- Cabe assim ao destino rearrumar os pacotes na sequência correta
++++++ Redes móveis celulares +++++
 
-------------------------------------------------------------------------------------------------------
-
-+++++ Redes definidas por software +++++
-
-- As SDN permitem programar o comportamento da rede de forma centralizada e controlada por meio de 
-  interfaces de programação abertas.
-- A figura central em uma rede SDN é o controlador de rede
-
-------------------------------------------------------------------------------------------------------
-
-+++++ Internet das Coisas +++++
-
-- A ideia é conectar não apenas os computadores, smartphones e tablets, mas também qualquer 
-  dispositivo, objeto e até mesmo animais na rede.
-
-
-
-
-
-
-
-
+  - Handoff
+  - Uplink
+  - Downlink
 
