@@ -1,0 +1,37 @@
+Analise e Desenvolvimento de Sistemas
+
+-------------------------------------------------------------------------------------------------------
+
++++++ Conceitos +++++
+
+  {Peculiaridades e características das redes sem fio}
+
+~ Vantagens
+
+  - A instalação de uma rede em um prédio histórico tombado; 
+  - Dentro de um centro cirúrgico de um hospital;
+  - Instalação de redes temporárias etc;
+  - A mobilidade dos terminais.
+
+~ Desvantagens
+
+  - Segurança
+  - Interferência de outras fontes
+  - Propagação multivias
+  - Condições climáticas 
+
+-------------------------------------------------------------------------------------------------------
+
++++++ Redes locais sem fio – WiFi +++++
+
+  - A tecnologia dominante empregada em redes locais sem fio é a tecnologia WiFi, identificada pelo
+    padrão IEEE 802.11.
+
+-------------------------------------------------------------------------------------------------------
+
++++++ Redes móveis celulares +++++
+
+  - Handoff
+  - Uplink
+  - Downlink
+
