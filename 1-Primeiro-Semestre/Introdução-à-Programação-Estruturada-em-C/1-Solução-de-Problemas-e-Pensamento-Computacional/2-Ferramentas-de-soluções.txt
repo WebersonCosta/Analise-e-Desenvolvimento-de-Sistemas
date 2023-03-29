@@ -2,44 +2,14 @@ Analise e Desenvolvimento de Sistemas
 
 ------------------------------------------------------------------------------------------------------
 
-+++++ Solução Estruturada +++++
++++++ Conceitos +++++
 
-- Uma sequência de passos a serem dados, de forma que, ao seguir esta sequência, exista uma resposta 
-  coerente para esse problema
-
-------------------------------------------------------------------------------------------------------
-
-+++++ Pensamento computacional +++++
-
-~ 9 elementos.
-
-- 1. Abstração e reconhecimento de padrões;
-- 2. Processamento sistemático da informação;
-- 3. Noções de controle de fluxo em algoritmos;
-- 4. Decomposição de problemas estruturados:
-- 5. Sistema de símbolos e representações;
-- 6. Pensamento iterativo, recursivo e paralelo:
-- 7. Lógica condicional;
-- 8. Eficiência e restrições de desempenho;
-- 9. Depuração e detecção de erro sistemático.
-
-  { 4 pilares }
-
-~ Decomposição; 
-- Dividir o problema inicial em partes menores para resolver mais facilmente
-
-~ Reconhecimentos de Padrões;
-- Identificar repetições ou regras de recorrência
-
-~ Abstrações;
-- Filtragem e classificação dos dados, concentrando a atenção no que é mais importante
-
-~ Algoritmos.
-- Procedimentos para resolver um problema com ações a serem executadas em uma ordem
+  - algoritmos são procedimentos para resolver um problema com as ações a serem executadas e a ordem 
+    em que elas devem acontecer.
 
 ------------------------------------------------------------------------------------------------------
 
-+++++ Raciocínio Lógico +++++
++++++ Fluxograma +++++
 
-- Raciocínio lógico é um processo de estruturação do pensamento de acordo com as normas da lógica que 
-  permite chegar a uma determinada conclusão ou resolver um problema.
+  - O fluxograma é uma ferramenta útil para a representação de uma solução, e pode ser entendido como
+    a representação gráfica de um algoritmo.
