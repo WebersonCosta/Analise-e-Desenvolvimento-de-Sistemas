@@ -1,0 +1,16 @@
+Analise e Desenvolvimento de Sistemas
+
+--------------------------------------------------------------------------------------------------------
+
++++++ Pseudocódigo +++++
+
+  - Pseudocódigo é uma linguagem artificial e informal que ajuda programadores a desenvolver algoritmos.
+
+--------------------------------------------------------------------------------------------------------
+
++++++ Portugol Studio +++++
+
+  - O Portugol Studio é uma ferramenta para aprender programação, voltada para as pessoas que falam o 
+    idioma português.
+
+

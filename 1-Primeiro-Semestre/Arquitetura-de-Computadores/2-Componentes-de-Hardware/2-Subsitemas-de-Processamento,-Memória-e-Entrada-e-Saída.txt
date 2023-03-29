@@ -53,3 +53,5 @@ Analise e Desenvolvimento de Sistemas
     por um processador.
   - Ciclo de instruções é um conjunto de instruções de máquina sequencialmente organizadas para a 
     execução de um programa.
+
+
