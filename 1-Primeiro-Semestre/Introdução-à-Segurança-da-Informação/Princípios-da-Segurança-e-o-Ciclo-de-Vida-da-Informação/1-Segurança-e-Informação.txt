@@ -1,0 +1,63 @@
+Analise e Desenvolvimento de Sistemas
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Conceitos básicos da área de segurança e informação +++++
+
+~ Dado x Informação
+
+  - Dados são representações primitívas como números, simbolos, caracteres, palavras, códigos e gráficos
+  - Informação é a contextualização do dado
+
+~ Segurança da Informação
+
+  - A segurança da informação trata das ferramentas e os processos aplicados para proteger as informações
+
+~ Principios Básicos da Segurança da Informação
+
+  - Confidencialidade
+  - Integridade
+  - Disponibilidade
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Dado e Informação +++++
+
+  - O dado pode ser considerado o valor de determinada medida sem uma contextualização e, portanto, 
+    sem valor para ser aplicado ou tratado
+  - Informação é o resultado do processamento e da análise de dados, que tem significado dentro de um
+    contexto
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Ciclo de vida da informação +++++
+
+  - Criação
+  - Transporte
+  - Manuseio
+  - Descarte
+
+~ Criptografia simétrica
+
+  - Quando a mesma chave é usada nas duas etapas (criptografar e decriptografar)
+
+~ Criptografia assimétrica
+
+  - Quando são usadas chaves distintas (criptografar e decriptografar)
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Aspectos da segurança da informação +++++
+
+~ Principais
+
+  - Confidencialidade
+  - Integridade
+  - Disponibilidade
+
+~ Outros
+
+  - Autenticidade
+  - Legalidade
+  - Não repúdio
+

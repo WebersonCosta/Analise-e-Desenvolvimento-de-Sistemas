@@ -1,0 +1,52 @@
+Analise e Desenvolvimento de Sistemas
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Conceito de segurança física, lógica e controle de acesso +++++
+
+  - Segurança Física
+  - Segurança Lógica
+  - Algoritmo de Criptografia
+  - Backup
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Segurança física +++++
+
+  - Camadas justapostas
+  - Controles de temperatura
+  - Extintores de incêndio
+  - RFID
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Segurança lógica +++++
+
+  - Camadas justapostas
+  - Senhas
+  - Listas de controle de acesso
+  - Criptografia
+  - Firewall
+
+~ Criptografia Simétrica
+
+  - AES (Rijnadel)
+  - Twofish
+  - Serpent
+  - Blowfish
+  - RC4
+  - 3DES (baseado no DES)
+  - IDEA
+
+~ Criptografia Assimétrica
+
+  - Diffie-Hellman
+  - El Gamal
+  - Curvas Elípticas
+
+~ Controles aplicados às redes
+
+  - Firewalls
+  - Sistemas detectores de intrusão
+  - VPNs
+
