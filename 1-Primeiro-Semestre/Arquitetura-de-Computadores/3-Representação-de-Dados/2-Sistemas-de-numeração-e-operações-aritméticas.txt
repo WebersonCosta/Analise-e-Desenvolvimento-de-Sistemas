@@ -1,0 +1,45 @@
+Analise e Desenvolvimento de Sistemas
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Sistemas de numeração +++++
+
+~ Bases de numeração
+
+  - Decimal
+  - Binária
+  - Octal
+  - Hexadecimal
+
+~ Posicional
+
+  - Cada algarismo tem um valor relativo (diferente) de acordo com sua posição no número
+
+~ Não posicional
+
+  - Todo algarismo tem valor fixo independentemente de sua posição no número.
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Operações aritméticas com números inteiros em qualquer base +++++
+
+
+~ Adição
+
+  - As parcelas são somadas algarismo por algarismo (pares da mesma coluna), partindo da posição mais à
+    direita até a última posição à esquerda.
+
+~ Subtração
+
+  - As parcelas são subtraídas algarismo por algarismo (pares da mesma coluna) do mais à direita até 
+    o último à esquerda.
+
+  ~ Minuendo maior que subtraendo
+
+    - Realiza a operação e registra sua diferença embaixo.
+  
+  ~ Minuendo menor que subtraendo
+
+    - É subtraída uma unidade do algarismo à esquerda (trata-se do famoso “pedir 1 emprestado”).
+
+

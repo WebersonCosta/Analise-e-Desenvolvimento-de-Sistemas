@@ -1,0 +1,37 @@
+Analise e Desenvolvimento de Sistemas
+
+---------------------------------------------------------------------------------------------------------------
+
++++++ Unidades de informação +++++
+
+  - O computador armazena e move os dados eletronicamente sob a forma de voltagem ou corrente elétrica
+
+~ Representação
+
+  - A representação dos valores elétricos é feita na forma binária: 0 e 1.
+  - Cada unidade de 0 e 1 corresponde a 1 bit
+  - O conjunto de 8 bits forma o Byte.
+
+~ Quatro conjuntos formados nas unidades de informação
+
+  - Um conjunto ordenado de bytes, que representa uma informação útil para o  s computadores, constitui
+    uma palavra.
+  - Um conjunto estruturado de palavras forma um registro.
+  - Um conjunto organizado de registros forma um arquivo.
+  - Um conjunto organizado de arquivos forma um banco de dados.
+  
+---------------------------------------------------------------------------------------------------------------
+
++++++ Representação das informações no computador +++++
+
+  - "Tudo o que é adequado para processamento com computadores digitais será representado (codificado)
+    como uma sequência de 0s e 1s, sejam dados numéricos, texto, arquivos executáveis, sejam imagens, 
+    áudio ou vídeo."
+
+~ Métodos padrão de codificação:
+
+  - O padrão ASCII pode associar um número binário de 7 bits a cada um dos 128 caracteres distintos possíveis.
+  - O formato de arquivo MP3 especifica o modo de codificar um arquivo de áudio como uma sequência de 0s e 1s.
+  - O formato de imagem .png especifica os pixels das imagens digitais como uma sequência de 0s e 1s.
+
+
