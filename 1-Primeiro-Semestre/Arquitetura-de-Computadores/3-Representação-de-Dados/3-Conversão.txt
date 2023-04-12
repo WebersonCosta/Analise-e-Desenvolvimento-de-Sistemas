@@ -4,3 +4,18 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Conversão entre sistemas de numeração +++++
 
+~ De uma base X para outra Y
+  
+  - A conversão sempre precisa ser realizada tendo a base 10 como intermediária, pois ela é a utilizada
+    para efetuar cálculos aritméticos.
+  
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Lógica booleana +++++
+
+  - Os valores binários seguem a lógica booleana. Nela, dois valores são referidos como verdadeiro e 
+    falso, sim e não ou 0 e 1. Não importa a escolha feita para essa referência: seu conceito é o mesmo.
+
+
+

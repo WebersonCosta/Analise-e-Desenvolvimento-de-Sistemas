@@ -1,0 +1,36 @@
+Analise e Desenvolvimento de Sistemas
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Tabelas de representação de dados +++++
+
+  { Tipos primitivos de dados }
+
+~ Caractere
+  
+  - Representa símbolos (não numéricos). Modo primário de introduzir dados no computador. Serve para 
+    escrever um texto em algum idioma.
+
+~ Lógico
+
+  - Representa verdadeiro ou falso.
+
+~ Numérico
+  
+  - Representa os números.
+
+
+  { ASCII }
+
+
+  - American Standard Code for Information Interchange (em português, Código Padrão Americano para 
+    Troca de Informações).
+
+
+  { UNICODE }
+
+ 
+  - Padrão internacional no qual cada caractere possui um único valor: 16 bits. Com isso, podemos
+    ter um total de 65.536 símbolos (216).
+
+
