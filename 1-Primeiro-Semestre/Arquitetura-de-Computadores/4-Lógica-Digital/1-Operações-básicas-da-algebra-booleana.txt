@@ -4,3 +4,41 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Portas lógicas e lógica booleana +++++
 
+  { Álgebra booleana, uma ferramenta eficiente para: }
+
+~ Análise
+
+  - A função de um circuito digital é descrita de acordo com a análise de um modo simplificado.
+
+~ Projeto
+
+  - A lógica booleana é utilizada para que seja desenvolvida uma implementação simplificada desta função,
+    ao especificar uma determinada função de um circuito.
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Tabela-verdade +++++
+
+  - É uma técnica utilizada para descrever como a saída de um circuito lógico é dependente dos níveis
+    lógicos de entrada, isto é, são tabelas que conterão todas as possíveis combinações das variáveis
+    de entrada de uma determinada função e, como resultado, os valores de saída.
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Operadores e portas lógicas básicas +++++
+
+  { Os operadores booleanos básicos também denominados como funções lógicas básicas são: }
+
+  - OR
+  - AND
+  - NOT
+
+---------------------------------------------------------------------------------------------------------
+
++++++ Outras portas lógicas fundamentais +++++
+
+  - NOR
+  - NAND
+  - XOR
+  - XNOR
+
