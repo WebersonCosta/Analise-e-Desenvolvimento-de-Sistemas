@@ -4,3 +4,27 @@ Analise e Desenvolvimento de Sistemas
 
 +++++ Evolução dos computadores +++++
 
+~ Aplicações com grande capacidade de processamento baseadas em microprocessadores
+
+  - Processamento de imagem
+  - Renderização tridimensional
+  - Reconhecimento de linguagem
+  - Videoconferência
+  - Modelagem e simulação
+
+-----------------------------------------------------------------------------------------------------------
+
++++++ Paralelismo em nível de instruções e processadores superescalares +++++
+
+~ Superescalar
+
+  - Nesta organização, as instruções comuns (aritméticas de inteiros e pontos flutuantes), a carga do valor
+    da memória em um registrador, o armazenamento do valor do registrador na memória e os desvios 
+    condicionais poderão ser iniciados e executados de forma independente.
+
+~ Pipeline
+
+  - Nesta técnica, o caminho executável de uma instrução é dividido em estágios discretos, permitindo ao 
+    processador efetuar várias instruções simultaneamente, contanto que apenas uma delas ocupe cada 
+    estágio durante um ciclo de relógio.
+
